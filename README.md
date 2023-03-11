@@ -24,3 +24,4 @@ My name is Simon, I am a Backend Developer <img src="https://media.giphy.com/med
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsegomof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
